@@ -1,16 +1,42 @@
-# flutter_application_2
+# 🌟 My Flutter Portfolio App
 
-A new Flutter project.
+A simple yet elegant **Flutter portfolio application** built to showcase my profile, skills, and contact information.  
+This app demonstrates Flutter navigation, layout management, theming, and responsive UI design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+✅ 3 main pages:
+- 🏠 **Home Page** — Intro with profile photo and short description  
+- 👨‍💻 **About Page** — Details about my skills, education, and experience  
+- 📞 **Contact Page** — Contact info and links to my profiles  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Clean navigation:
+- Drawer menu for smooth switching between pages  
+- Buttons with icons for quick actions  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Beautiful design:
+- Custom **Indigo theme**
+- Responsive **UI layout**
+- Professional color palette and typography  
+
+✅ Works on:
+- Android  
+- iOS  
+- Web (tested on Chrome)
+
+---
+
+## 📸 Preview
+
+| Home Page | About Page | Contact Page |
+|------------|-------------|--------------|
+| ![Home](https://i.ibb.co/9H9xRVh/flutter-home.png) | ![About](https://i.ibb.co/9nPQxtL/flutter-about.png) | ![Contact](https://i.ibb.co/3jYVXLw/flutter-contact.png) |
+
+*(Optional: Replace these image links with your own screenshots once you run the app.)*
+
+---
+
+## 🧱 Folder Structure
+
