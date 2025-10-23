@@ -25,18 +25,17 @@ This app demonstrates Flutter navigation, layout management, theming, and respon
 - Android  
 - iOS  
 - Web (tested on Chrome)
-
----
-
-## 📸 Preview
-
-| Home Page | About Page | Contact Page |
-|------------|-------------|--------------|
-| ![Home](https://i.ibb.co/9H9xRVh/flutter-home.png) | ![About](https://i.ibb.co/9nPQxtL/flutter-about.png) | ![Contact](https://i.ibb.co/3jYVXLw/flutter-contact.png) |
-
-*(Optional: Replace these image links with your own screenshots once you run the app.)*
-
+  
 ---
 
 ## 🧱 Folder Structure
+lib/
+│
+├── main.dart # Main entry file
+├── home_page.dart # (Included in main.dart for simplicity)
+├── about_page.dart
+├── contact_page.dart
+└── widgets/
+└── app_drawer.dart # Navigation drawer widget
+
 
